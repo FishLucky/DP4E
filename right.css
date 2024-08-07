@@ -1,0 +1,54 @@
+#right{
+	width: 400px;
+	height: 880px;
+	margin-left: 30px;
+	border-radius: 15px;
+}
+#right:hover{
+	background-color: #00000080;
+}
+#right-title{
+	width: 340px;
+	height: 100px;
+	margin-left: 30px;
+	color: #ffffff;
+	text-align: center;
+	text-shadow: -20px 20px 20px #000000, -10px 10px 10px #000000, -5px 3px 5px #000000;
+	line-height: 100px;
+	font-size: 40px;
+	font-weight: bold;
+	font-family: "黑体";
+}
+#video{
+	width: 340px;
+	height: 780px;
+	margin-left: 30px;
+	margin-top: 40px;
+	overflow-y: scroll;
+	overflow-x: hidden;
+}
+#video::-webkit-scrollbar{
+	width: 10px;
+}
+#video::-webkit-scrollbar-track{
+	background-color: #00000000;
+}
+#video::-webkit-scrollbar-thumb{
+	background-color: #ffffff;
+	border-radius: 6px;
+	border: 2px solid #00000000;
+	background-clip: content-box;
+}
+#video::-webkit-scrollbar-thumb:hover{
+	background-color: #00aaff;
+}
+.video-in{
+	width: 320px;
+	height: 200px;
+	margin-left: 10px;
+	margin-bottom: 60px;
+	border-radius: 15px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	box-shadow: -12px 10px 6px #000000, -6px 5px 6px #000000;
+}

@@ -1,0 +1,14 @@
+body{
+	background-image: url("img/bg.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+#body{
+	width: 1660px;
+	margin-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.main-div{
+	float: left;
+}

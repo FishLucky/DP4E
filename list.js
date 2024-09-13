@@ -1,4 +1,4 @@
-const bv = ["BV1sYeweZEWB"，"BV1hw4m1Z7eM", "BV1Fx421y7te", "BV1Kz421f7JF"];
+const bv = ["BV1sYeweZEWB", "BV1hw4m1Z7eM", "BV1Fx421y7te", "BV1Kz421f7JF"];
 const totalList = [
 	{
 		"type": "mc",

@@ -152,6 +152,7 @@ function doRandom () {
 		
 		document.getElementById("main").appendChild(fragment);
 	}
+	document.getElementById("main").innerHTML+=`<tip>&nbsp; &nbsp; 对一些看起来很相似的死法感到困惑？<a href="/tip">看看这个吧</a></tip>`;
 }
 // 返回死法
 function deathRandom (index) {
